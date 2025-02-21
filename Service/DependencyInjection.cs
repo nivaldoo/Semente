@@ -1,7 +1,6 @@
 using Domain.Interfaces.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using RInspection.Service.Services;
 using Service.Services;
 
 namespace Service;
